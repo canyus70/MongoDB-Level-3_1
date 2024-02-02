@@ -1,0 +1,1 @@
+export * as MoviesDAO from "./MoviesDAO.js"
